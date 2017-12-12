@@ -1,0 +1,1 @@
+## Some functional programming examples :eyeglasses: :beer: :computer:
